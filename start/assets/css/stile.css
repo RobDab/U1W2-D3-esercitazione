@@ -104,11 +104,13 @@ header {
         main {
             display: flex;
             flex-direction: row;
+            
         }
 
         aside {
             display: flex;
             flex-direction: column;
+            
         }
         #aside_boxes {
             display: initial;
